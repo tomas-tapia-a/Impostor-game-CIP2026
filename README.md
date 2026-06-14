@@ -26,3 +26,5 @@ Gather 3 or more friends around a single terminal. Players select a topic (e.g.,
 4. Run the game from your terminal:
    ```bash
    python main.py
+## Or try in CIP IDE
+https://codeinplace.stanford.edu/cip6/share/34MasKjBjKbHoWlDpwtm 
